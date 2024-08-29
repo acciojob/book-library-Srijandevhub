@@ -17,7 +17,7 @@ body {
 .price-block {
 	padding: 5px 12px;
 	text-align: center;
-	background-color: #2ecc71;
+	background-color: rgb(46, 204, 113);
 	color: #fff;
 	border-radius: 5px;
 }
